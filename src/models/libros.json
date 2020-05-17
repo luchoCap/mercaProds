@@ -1,0 +1,19 @@
+{
+    "libros": [
+        {
+            "title": "El principito",
+            "autor": "Antoine",
+            "img": "https://images-eu.ssl-images-amazon.com/images/I/41Dq3bmK6oL.jpg"
+        },
+        {
+            "title": "Don Quijote de la mancha",
+            "autor": "Cervantes",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQmPmUQ-olJ7u-y7uExbRhxXiPhyN92_qaGFXU9YxZw_oAGeXZ"
+        },
+        {
+            "title": "El codigo",
+            "autor": "Dan Brown",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQy1fmd4tKE44JueFxAugAktXhfwOaXnw9dtiQir-dF9QMZ9mic"
+        }
+    ]
+}
